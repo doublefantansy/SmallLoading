@@ -6,7 +6,6 @@ android {
         applicationId "hzkj.cc.smallloading"
         minSdkVersion 17
         targetSdkVersion 28
-
         vectorDrawables.useSupportLibrary = true
         versionCode 1
         versionName "1.0"
